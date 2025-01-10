@@ -2,7 +2,7 @@ public class Digits {
 
 	public static void main(String[] args) {
 System.out.println(" digit count program");
-		int i=123
+		int i=123;
 		int j;
 		int count=0;
 		while(i>0)
