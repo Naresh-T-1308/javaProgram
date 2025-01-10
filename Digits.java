@@ -1,7 +1,7 @@
 public class Digits {
 
 	public static void main(String[] args) {
-System.out.println("  count program");
+System.out.println(" digit count program");
 		int i=123;
 		int j;
 		int count=0;
